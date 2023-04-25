@@ -1,1 +1,1 @@
-This is an app for the GCP-PROJECT
+This is an app for the GCP-PROJECT. The app is a simple python flask app for our GCP project. We will dockerize the app using the Dockerfile within this repository,do not worry as we have already tested the app in background.
